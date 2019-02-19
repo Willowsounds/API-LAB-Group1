@@ -5,8 +5,9 @@ Annyang is The MIT License (MIT)
 Copyright (c) 2016 Tal Ater
 
 **What the project does**
-[Annyang] is a tiny javascript SpeechRecognition library that lets your users control your site with voice commands. Annyang has no dependencies, weighs just 2 KB, and is free to use and modify. 
-Our team has used Annyang to intergate the speech recognition property as a way of accesing content. The examples presented include different content types: text, video, ......._____________
+[Annyang] is a tiny JavaScript speech recognition library that lets users control a website with voice commands. Annyang has no dependencies, weighs just 2 KB, and is free to use and modify.
+
+Our group has used Annyang to integrate the speech recognition property as a way of accesing content or getting output to the screen. The examples presented include different content types: text, video, ......._____________
 
 **Why the project is useful**
  Voice-controlled interfaces are growing concern in interaction design. In what ways will humans communicate to computers through voice? Voice-control interfaces can promote inclusivity of people with physical dysability.
