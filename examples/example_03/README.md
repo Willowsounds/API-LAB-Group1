@@ -1,5 +1,5 @@
 
-# API-LAB Example 3
+# API Lab Example 3
 
 Annyang is The MIT License (MIT)
 Copyright (c) 2016 Tal Ater
