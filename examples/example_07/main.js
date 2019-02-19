@@ -1,3 +1,7 @@
+//The MIT License (MIT)
+
+//Copyright (c) 2016 Tal Ater ??
+
 //This Javascript code was taken from https://www.jumpingrivers.com/blog/voice-control-your-shiny-apps/
 //Credits to Jumping Rivers
 
@@ -9,6 +13,7 @@ if (annyang) {
     "Jumping Rivers": function() {
       //opens a new tab with this website
       window.open("https://www.jumpingrivers.com", "_blank");
+      console.log("this works"); //Just for checking
     }
   };
   // register the defined commands

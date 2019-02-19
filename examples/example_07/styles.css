@@ -69,6 +69,15 @@ p {
   color: white;
 }
 
+#button67{
+  background-color: grey;
+  }
+
+#button67:hover {
+  background-color: #fe7575;
+  color: white;
+  }
+
 a {
   text-align: left;
   text-decoration: none;
