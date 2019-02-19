@@ -27,19 +27,13 @@ The project explores an intuitive way of communicating with common blocks of web
 
   - the given examples can be used as templates to implement voice control to a website
   - showing a simple approach to voice-control interfaces and that annyang as a library is useful
-
-You can also:
-  -  lorem ipsum 
-  -  lorem ipsum 
-  -  lorem ipsum 
-
-
- lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum 
+  
+  -Annyang is a simple library that enables you to call any JavaScript function with a voice command. Some things that you might want to implement can be difficult and need a little more investigation, like making a video play and pause.
+  
+Start by linking your annyang.min.js file in your index.html:
 
 First Tab:
-```sh
-$ node app
-```
+<script src="../../build/annyang.min.js"></script>
 
 Second Tab:
 ```sh
