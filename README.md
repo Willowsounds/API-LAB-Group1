@@ -30,16 +30,22 @@ The project explores an intuitive way of communicating with common blocks of web
   
   -Annyang is a simple library that enables you to call any JavaScript function with a voice command. Some things that you might want to implement can be difficult and need a little more investigation, like making a video play and pause.
   
-Start by linking your annyang.min.js file in your index.html:
+Start by linking your annyang.min.js file in your index.html along with your main.js:
 
 First Tab:
 ```sh
 <script src="../../build/annyang.min.js"></script>
+<script src="main.js"></script>
 ```
 
-Second Tab:
+Then, put this code at the bottom of your main.js:
 ```sh
-<script src="../../build/annyang.min.js"></script>
+  annyang.addCommands(commands);
+
+  annyang.start({
+    autoRestart: true
+  });
+
 ```
 
 (optional) Third:
