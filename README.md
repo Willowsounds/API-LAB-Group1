@@ -31,8 +31,6 @@ The project explores an intuitive way of communicating with common blocks of web
   -Annyang is a simple library that enables you to call any JavaScript function with a voice command. Some things that you might want to implement can be difficult and need a little more investigation, like making a video play and pause.
   
 Start by linking your annyang.min.js file in your index.html along with your main.js:
-
-First Tab:
 ```sh
 <script src="../../build/annyang.min.js"></script>
 <script src="main.js"></script>
@@ -48,24 +46,23 @@ Then, put this code at the bottom of your main.js:
 
 ```
 
-(optional) Third:
+Define a function:
 ```sh
 $ karma test
 ```
 
-By default,  lorem ipsum  lorem ipsum  lorem ipsum v lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum 
-
+Tell annyang to call that function on your chosen voice command:
 ```sh
 cd dillinger
 docker build -t joemccann/dillinger:${package.json.version} .
 ```
- lorem ipsum  lorem ipsum v lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  `${package.json.version}`  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum 
-
-Once done,  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum 
+Blabla:
 
 ```sh
 docker run -d -p 8000:8080 --restart="always" <youruser>/dillinger:${package.json.version}
 ```
+
+Have fun with voice recognition that Annyang to easily allows you to do!
 
 **Who maintains and contributes**
 
