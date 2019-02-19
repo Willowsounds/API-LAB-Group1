@@ -77,4 +77,4 @@ License
 
 MIT
 
-   [Annyang]: <https://www.talater.com/annyang/m>
+   [Annyang]: <https://www.talater.com/annyang/>
