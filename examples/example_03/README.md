@@ -5,7 +5,8 @@ Annyang is The MIT License (MIT)
 Copyright (c) 2016 Tal Ater
 
 **What the example does**
-Example 3 uses [Annyang] to let users to change the display of text content on a screen. This example allows to use one's voice to:
+
+Example 3 uses [Annyang] to let users change the display of text content on a screen. This example allows to use one's voice to:
 
   - Increase font size
   - Scroll down
