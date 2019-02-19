@@ -33,11 +33,13 @@ The project explores an intuitive way of communicating with common blocks of web
 Start by linking your annyang.min.js file in your index.html:
 
 First Tab:
+```sh
 <script src="../../build/annyang.min.js"></script>
+```
 
 Second Tab:
 ```sh
-$ gulp watch
+<script src="../../build/annyang.min.js"></script>
 ```
 
 (optional) Third:
