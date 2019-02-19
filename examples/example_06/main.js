@@ -1,4 +1,4 @@
-//This example was taken from CodePen. Credits to Alexander Salas Bastidas.
+//This js code was taken from CodePen. Credits to Alexander Salas Bastidas.
 
 if (annyang) {
   // Let's define a command.The command here you need to say would be "Hello World".
