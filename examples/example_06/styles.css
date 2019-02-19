@@ -64,7 +64,16 @@ p {
     border-bottom-left-radius: 10px;
     }
   
-  .button:hover {
+.button:hover {
+    background-color: #fe7575;
+    color: white;
+    }
+
+#button67{
+    background-color: grey;
+    }
+      
+#button67:hover {
     background-color: #fe7575;
     color: white;
     }

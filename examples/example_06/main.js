@@ -1,3 +1,7 @@
+//The MIT License (MIT)
+
+//Copyright (c) 2016 Tal Ater ??
+
 //This js code was taken from CodePen. Credits to Alexander Salas Bastidas.
 
 if (annyang) {
@@ -6,7 +10,7 @@ if (annyang) {
     "Hello world": function() {
     //The alert window will pop out.The console will log "this works"
       alert("Welcome!");
-      console.log("this works");
+      console.log("this works"); //Just for checking
     }
   };
   //annyang.debug(true);
