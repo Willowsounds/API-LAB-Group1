@@ -1,4 +1,4 @@
-# API-LAB- Prototyping with Annyang Voice Recognition Library
+# API-LAB using Annyang Voice Recognition Library
 
 
 Annyang is The MIT License (MIT)
