@@ -13,7 +13,7 @@ Our team has used Annyang to intergate the speech recognition property as a way 
 
 **Why the project is useful**
 
-Voice-controlled technologies is being established by several different companies. Alexa and Siri are pioneer products that already demonstrate how the new form of communicating with devices is becoming a norm. In a few years speech recognition will most likely be implemented in our everyday lives. As human-computer interactions are one of the main fields in interaction design, voice-controlled interfaces are seen as a growing opportunity for IxD designers. Moreover, such interfaces can promote inclusivenes for people with various disabilities.
+Voice-controlled technologies are being developed implemented on common devices by many major companies. Alexa and Siri are pioneer products that already demonstrate how the new form of communicating with devices is becoming a norm. In a few years speech recognition will most likely be implemented in our everyday lives. As human-computer interactions are one of the main fields in interaction design, voice-controlled interfaces are seen as a growing opportunity for IxD designers. Moreover, such interfaces can promote inclusivenes for people with various disabilities.
 
 
 
