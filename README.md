@@ -48,10 +48,10 @@ Then, put this code at the bottom of your **main.js**:
 
 Define a function:
 ```sh
-$ karma test
+annyang bla bla
 ```
 
-Tell annyang to call that function on your chosen voice command:
+Tell Annyang to call that function on your chosen voice command:
 ```sh
 cd dillinger
 docker build -t joemccann/dillinger:${package.json.version} .
