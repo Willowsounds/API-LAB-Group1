@@ -24,7 +24,7 @@ Voice-controlled technologies are being developed implemented on common devices 
 The project explores an intuitive way of communicating with common blocks of websites and how to command these with voice control.
 
   - the given examples can be used as templates to implement voice control to a website
-  - showing a simple approach to voice-control interfaces and that annyang as a library is useful
+  - showing a simple approach to voice-control interfaces and that Annyang as a library is useful
 
 **How users can get started with the project, How to use your code**
 
