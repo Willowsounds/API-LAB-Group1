@@ -59,7 +59,7 @@ Below tell Annyang to call that function on your chosen voice command:
 if (annyang) {
   var commands = {
       'Show Image!': function() { //this is where you define the voice command
-      openGame();
+      showImage();
       console.log("This works"); //the console will log "this works" if the voice command is recognized
     }
   }
