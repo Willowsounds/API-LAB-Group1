@@ -45,24 +45,26 @@ Then, put this code at the bottom of your **main.js**:
   });
 
 ```
-
-Define a function:
+Next step is to define a function:
 ```sh
-annyang bla bla
+var thisImage = document.getElememtById("image");
+function showImage(){
+    ...
+  };
 ```
 
-Tell Annyang to call that function on your chosen voice command:
+Below tell Annyang to call that function on your chosen voice command:
 ```sh
-cd dillinger
-docker build -t joemccann/dillinger:${package.json.version} .
+if (annyang) {
+  var commands = {
+      'Show Image!': function() { //this is where you define the voice command
+      openGame();
+      console.log("This works"); //the console will log "this works" if the voice command is recognized
+    }
+  }
 ```
-Blabla:
 
-```sh
-docker run -d -p 8000:8080 --restart="always" <youruser>/dillinger:${package.json.version}
-```
-
-Have fun with voice recognition that Annyang to easily allows you to do!
+Have fun with voice recognition that Annyang so easily allows you to do!
 
 **Who maintains and contributes**
 
