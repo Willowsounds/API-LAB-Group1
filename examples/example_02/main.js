@@ -15,16 +15,16 @@ function Play() {
 function Pause() {
   video.pause();
 }
-
+//setting commands for the annyang library to identify words and then call the function that were defined above
 if (annyang) {
   var commands = {
     "play video": function() {
       vid.play();
-      console.log("this works");
+      console.log("this works"); //just for testing
     },
     "pause video": function() {
       vid.pause();
-      console.log("this pauses");
+      console.log("this pauses"); //just for testing
     }
   };
 
