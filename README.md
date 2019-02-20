@@ -26,17 +26,18 @@ The project explores an intuitive way of communicating with common blocks of web
   - the given examples can be used as templates to implement voice control to a website
   - showing a simple approach to voice-control interfaces and that Annyang as a library is useful
 
-**How users can get started with the project, How to use your code**
+**How users can get started with the project:**
 
-Annyang is a simple library that enables you to call any JavaScript function with a voice command. Some things that you might want to implement can be difficult and need a little more investigation, like making a video play and pause.
+Annyang enables you to call any JavaScript function with a voice command. Some things that you might want to implement can be difficult and require a little more investigation, like making a video play and pause.
   
-Start by linking your **annyang.min.js** file in your index.html along with your **main.js**:
+First, start by linking your **annyang.min.js** file in your index.html along with your **main.js**:
 ```sh
 <script src="../../build/annyang.min.js"></script>
 <script src="main.js"></script>
 ```
+The **annyang.min.js** can be placed in a separate folder if you are playing around with several examples.
 
-Then, put this code at the bottom of your **main.js**:
+Then, put the code bellow at the bottom of your **main.js**. It will get your Annyang working:
 ```sh
   annyang.addCommands(commands);
 
