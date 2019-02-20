@@ -9,7 +9,7 @@ Copyright (c) 2016 Tal Ater
 [Annyang] is a tiny JavaScript speech recognition library that lets users control a website with voice commands. Annyang has no dependencies, weighs just 2 KB, and is free to use and modify. 
 Our group has used Annyang to integrate the speech recognition property as a way of accesing content.
 
-The examples presented include different content types: text output to screen, text manipualation, playing a video, opening a game, getting alert pop-ups and calling a website in new window as well as in new tab.
+The examples presented include different content types: text output to screen, text manipulation, playing a video, opening a game, getting alert pop-ups and calling a website in new window as well as in new tab.
 
 
 
