@@ -19,12 +19,12 @@ Voice-controlled technologies are being developed implemented on common devices 
 
 
 
-**What is the project exploring (remember you are prototyping)**
+**What is the project exploring**
 
-The project explores an intuitive way of communicating with common blocks of websites and how to command these with voice control.
+The project explores an intuitive way of communicating with common building blocks of websites and how to command these with voice control.
 
   - the given examples can be used as templates to implement voice control to a website
-  - showing a simple approach to voice-control interfaces and that Annyang as a library is useful
+  - showing a simple approach to voice-control interfaces and that Annyang as a library is useful for prototyping lo-fi VUI that has certain flaws, like delay, but is easy to use for IxD students and beginners in programming
 
 **How users can get started with the project:**
 
