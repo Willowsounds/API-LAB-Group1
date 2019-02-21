@@ -28,16 +28,16 @@ The project explores an intuitive way of communicating with common building bloc
 
 **How users can get started with the project:**
 
-Annyang enables you to call any JavaScript function with a voice command. Some things that you might want to implement can be difficult and require a little more investigation, like making a video play and pause.
+Some features that one might want to implement can be difficult and require a little more investigation, like making a video play and pause. Therefore, trying different functions out with Annyang is a good idea.
   
-First, start by linking your **annyang.min.js** file in your index.html along with your **main.js**:
+To get started, link your **annyang.min.js** file in your index.html along with your **main.js**:
 ```sh
 <script src="../../build/annyang.min.js"></script>
 <script src="main.js"></script>
 ```
 The **annyang.min.js** can be placed in a separate folder if you are playing around with several examples.
 
-Then, put the code bellow at the bottom of your **main.js**. It will get your Annyang working:
+Then, put the code bellow at the bottom of your **main.js**. It will tell your browser to listen to Annyang:
 ```sh
   annyang.addCommands(commands);
 
@@ -54,7 +54,7 @@ function showImage(){
   };
 ```
 
-Below tell Annyang to call that function on your chosen voice command:
+Then, below your function, tell Annyang to call that function on your chosen voice command:
 ```sh
 if (annyang) {
   var commands = {
