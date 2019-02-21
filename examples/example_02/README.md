@@ -16,6 +16,8 @@ This is done through using DOM to access HTML ellements and defining functions t
   -the video is embedded in HTML with the <video> hmtl5 tag and then called through the dom
   -two functions are declared within the JavaScript file that pause and play the video
   -with the commands the words that needed to be recognized by annyang are defined.
+  
+Example made by Viviana Pohl
 
 
 License
